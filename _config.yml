@@ -1,0 +1,50 @@
+title: Zhen Zhang
+name: Zhen Zhang
+description: "Drug developer across Phase I–IV clinical and real-world studies; 150+ publications in statistical and AI/ML methods."
+url: https://zhangz19.github.io
+baseurl: ""
+repository: zhangz19/zhangz19.github.io
+
+# Theme & plugins (AcademicPages uses Minimal Mistakes)
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+# Keep site minimal and profile-focused
+author:
+  name: "Zhen Zhang"
+  avatar: "/images/profile.jpg"   # optional; remove if not using
+  bio: "Drug developer in the pharmaceutical industry; 17+ years in clinical & RWD analytics; 150+ peer-reviewed publications."
+  links:
+    - label: Email
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@example.com"
+    - label: Google Scholar
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=6ImvPfUAAAAJ"
+    - label: GitHub
+      icon: "fab fa-github"
+      url: "https://github.com/zhangz19"
+    - label: LinkedIn
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/zhen-zhang-7715644b"
+
+# Defaults for minimalist single-column pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
+# Turn off posts/tags/categories unless you need them
+collections:
+  pages:
+    output: true
+
+paginate: 0
