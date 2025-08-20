@@ -13,6 +13,11 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
+minimal_mistakes_skin: default
+# add this line
+custom_css:
+  - /assets/css/custom.css
+
 # Keep site minimal and profile-focused
 author:
   name: "Zhen Zhang"
@@ -52,6 +57,7 @@ collections:
     output: true
 
 paginate: 0
+
 
 
 
