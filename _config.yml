@@ -1,4 +1,4 @@
-title: Zhen Zhang
+title: Homepage
 name: Zhen Zhang
 description: "Drug developer across Phase I–IV clinical and real-world studies; 150+ publications in statistical and AI/ML methods."
 url: https://zhangz19.github.io
@@ -16,12 +16,12 @@ plugins:
 # Keep site minimal and profile-focused
 author:
   name: "Zhen Zhang"
-  avatar: "/images/profile.jpg"   # optional; remove if not using
+  avatar: "/images/profile.png"   # optional; remove if not using
   bio: "Drug developer in the pharmaceutical industry; 17+ years in clinical & RWD analytics; 150+ peer-reviewed publications."
   links:
     - label: Email
       icon: "fas fa-envelope"
-      url: "mailto:your.email@example.com"
+      url: "mailto:zhangquake@gmail.com"
     - label: Google Scholar
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=6ImvPfUAAAAJ"
@@ -48,3 +48,4 @@ collections:
     output: true
 
 paginate: 0
+
