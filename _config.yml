@@ -22,15 +22,19 @@ author:
     - label: Email
       icon: "fas fa-envelope"
       url: "mailto:zhangquake1@outlook.com"
+      target: _blank 
     - label: Google Scholar
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=6ImvPfUAAAAJ"
+      target: _blank 
     - label: GitHub
       icon: "fab fa-github"
       url: "https://github.com/zhangz19"
+      target: _blank 
     - label: LinkedIn
       icon: "fab fa-linkedin"
       url: "www.linkedin.com/in/zhen-zhang-7715644b"
+      target: _blank 
 
 # Defaults for minimalist single-column pages
 defaults:
@@ -48,5 +52,6 @@ collections:
     output: true
 
 paginate: 0
+
 
 
