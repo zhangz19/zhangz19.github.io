@@ -21,7 +21,7 @@ author:
   links:
     - label: Email
       icon: "fas fa-envelope"
-      url: "mailto:zhangquake@gmail.com"
+      url: "mailto:zhangquake1@outlook.com"
     - label: Google Scholar
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=6ImvPfUAAAAJ"
@@ -48,4 +48,5 @@ collections:
     output: true
 
 paginate: 0
+
 
